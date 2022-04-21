@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CanvasDataBinding (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CanvasDataBinding (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
